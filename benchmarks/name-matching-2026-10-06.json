@@ -1,0 +1,411 @@
+{
+ "run_date": "2026-10-06",
+ "endpoint": "companies/match",
+ "labels": "assigned by the authors from public knowledge of the companies; small, non-random set",
+ "baselines": {
+  "exact": "lowercase exact match",
+  "fuzzy": "rapidfuzz token_set_ratio >= 80"
+ },
+ "results": [
+  {
+   "label": "same",
+   "a": "شركة المراعي",
+   "b": "Almarai Company",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "إعمار العقارية",
+   "b": "Emaar Properties PJSC",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "شركة الفطيم ذ.م.م",
+   "b": "Al-Futtaim Trading LLC",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "بنك الراجحي",
+   "b": "Al Rajhi Bank",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "مجموعة سامبا المالية",
+   "b": "Samba Financial Group",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "شركة جرير للتسويق",
+   "b": "Jarir Marketing Company",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "مجموعة الحبتور",
+   "b": "Al Habtoor Group LLC",
+   "score": 0.97,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "شركة قيود لتقنية المعلومات",
+   "b": "Qoyod LLC",
+   "score": 0.838,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "فودكس",
+   "b": "Foodics",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "سلة",
+   "b": "Salla",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "تمارا",
+   "b": "Tamara Company",
+   "score": 0.97,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "تابي",
+   "b": "Tabby FZ-LLC",
+   "score": 0.97,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "كريم",
+   "b": "Careem Networks FZ-LLC",
+   "score": 0.886,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "شركة زين للاتصالات",
+   "b": "Zain Telecommunications Company",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "مجموعة طلعت مصطفى",
+   "b": "Talaat Moustafa Group",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "أرامكو السعودية",
+   "b": "Saudi Aramco",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "لولو هايبرماركت",
+   "b": "Lulu Hypermarket",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "شركة الاتصالات السعودية",
+   "b": "Saudi Telecom Company",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "بنك الإمارات دبي الوطني",
+   "b": "Emirates NBD Bank PJSC",
+   "score": 0.947,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "بنك الكويت الوطني",
+   "b": "National Bank of Kuwait S.A.K.P.",
+   "score": 0.967,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "بيت التمويل الكويتي",
+   "b": "Kuwait Finance House",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "شركة الفيصلية القابضة",
+   "b": "Al Faisaliah Group Holding Co.",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "Qoyod",
+   "b": "Qiyoud",
+   "score": 0.92,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "Rewaa",
+   "b": "Rawaa",
+   "score": 0.9,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "Al-Futtaim Group",
+   "b": "Al Futtaim Trading Co. LLC",
+   "score": 1,
+   "verdict": "same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "Almarai Co.",
+   "b": "Al Marai Company",
+   "score": 0.771,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "Emaar Properties",
+   "b": "EMAAR PROPERTIES P.J.S.C.",
+   "score": 0.958,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "same",
+   "a": "Jarir Bookstore",
+   "b": "Jarir Marketing Co.",
+   "score": 0.813,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "الفطيم",
+   "b": "الفهيم",
+   "score": 0.922,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Al Futtaim Trading LLC",
+   "b": "Al Fahim Group LLC",
+   "score": 0.728,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "نون",
+   "b": "نور",
+   "score": 0.822,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Noon",
+   "b": "Noor Holding",
+   "score": 0.883,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "تابي",
+   "b": "تمارا",
+   "score": 0.67,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Tabby",
+   "b": "Tamara",
+   "score": 0.662,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "جرير",
+   "b": "جاهز",
+   "score": 0.558,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Jarir Marketing Company",
+   "b": "Jahez International Company",
+   "score": 0.683,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "سلة",
+   "b": "سلام",
+   "score": 0.798,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Salla",
+   "b": "Salam Telecom",
+   "score": 0.817,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "شركة المراعي",
+   "b": "شركة المطلق",
+   "score": 0.75,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Almarai Company",
+   "b": "Almutlaq Group",
+   "score": 0.783,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "إعمار العقارية",
+   "b": "الإمارات العقارية",
+   "score": 0.941,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Emaar Properties PJSC",
+   "b": "Emirates Properties LLC",
+   "score": 0.851,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Qoyod",
+   "b": "Qawwam",
+   "score": 0.582,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Rewaa",
+   "b": "Rimaa",
+   "score": 0.76,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Al Habtoor Group",
+   "b": "Al Hamra Group",
+   "score": 0.65,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "بنك الراجحي",
+   "b": "بنك الجزيرة",
+   "score": 0.894,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Samba Financial Group",
+   "b": "Sabb Bank",
+   "score": 0.731,
+   "verdict": "different",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "شركة زين للاتصالات",
+   "b": "شركة زاجل للاتصالات",
+   "score": 0.856,
+   "verdict": "possible",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Careem",
+   "b": "Karam Holdings",
+   "score": 0.95,
+   "verdict": "likely_same",
+   "credits": 1
+  },
+  {
+   "label": "different",
+   "a": "Foodics",
+   "b": "Foodco",
+   "score": 0.91,
+   "verdict": "likely_same",
+   "credits": 1
+  }
+ ]
+}

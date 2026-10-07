@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.APIONE-STORE/apione",
+  "title": "ApiOne B2B Enrichment (GCC and MENA)",
+  "description": "B2B company, people and email enrichment with cited sources, built for GCC and MENA companies.",
+  "version": "2.0.0",
+  "websiteUrl": "https://apione.store",
+  "repository": { "url": "https://github.com/APIONE-STORE/apione-mcp", "source": "github" },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://apione.store/mcp",
+      "headers": [
+        { "name": "X-API-Key", "description": "ApiOne API key. Free key (100 credits, no card) at https://apione.store", "isRequired": true, "isSecret": true }
+      ]
+    }
+  ]
+}
